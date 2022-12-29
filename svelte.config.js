@@ -18,7 +18,11 @@ const config = {
 			pages: "docs",
 			assets: "docs"
 		}),
-	}
+		paths: {
+			base: '/kinky-bangkok-site'
+		}
+	},
+	
 };
 
 export default config;
