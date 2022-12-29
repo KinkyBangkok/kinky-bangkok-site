@@ -11,5 +11,4 @@ npm start
 
 ## Production
 
-Anything committed on the `main` branch will automatically be promoted to production.
-
+This runs on GitHub Pages. For it to update,  make sure the /docs folder is up to date. To update it simply run `npm run build`. Then commit it.
