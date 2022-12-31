@@ -1,4 +1,8 @@
 <script lang="ts">
+	import { fade } from 'svelte/transition';
+	import HoldOn from './HoldOn.svelte';
+	import ValidationMessage from './ValidationMessage.svelte';
+
 	const emailRegex =
 		/^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$/;
 
@@ -57,13 +61,10 @@
 	}
 </script>
 
-{#if sent}
-	<div class="font-semibold">
-		Thank you for your message. We will get in touch with you as soon as possible.
-	</div>
-{:else}
+<div class="relative">
 	<form
-		class="w-full max-w-xl"
+		class="w-full max-w-xl transition-opacity opacity-100"
+		class:opacity-0={sent}
 		novalidate
 		on:submit|preventDefault={submit}
 		action="/?/sendContactForm"
@@ -78,9 +79,8 @@
 						Name or Nickname
 					</label>
 				</div>
-				<div class="md:w-2/3">
+				<div class="md:w-2/3 relative">
 					<input
-						class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-purple-500"
 						id="inline-full-name"
 						bind:value={name}
 						on:keydown={() => (nameError = '')}
@@ -88,7 +88,7 @@
 						maxlength="150"
 						placeholder="Jane Doe"
 					/>
-					<div class="text-rose-500">{nameError}</div>
+					<ValidationMessage text={nameError} />
 				</div>
 			</div>
 			<div class="md:flex md:items-baseline mb-6">
@@ -100,9 +100,8 @@
 						Email
 					</label>
 				</div>
-				<div class="md:w-2/3">
+				<div class="md:w-2/3 relative">
 					<input
-						class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-purple-500"
 						id="inline-email"
 						type="email"
 						maxlength="150"
@@ -110,7 +109,7 @@
 						on:keydown={() => (emailError = '')}
 						placeholder="jane@example.com"
 					/>
-					<div class="text-rose-500">{emailError}</div>
+					<ValidationMessage text={emailError} />
 				</div>
 			</div>
 			<div class="md:flex md:items-start mb-6">
@@ -122,9 +121,8 @@
 						Message
 					</label>
 				</div>
-				<div class="md:w-2/3">
+				<div class="md:w-2/3 relative">
 					<textarea
-						class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-purple-500"
 						id="inline-message"
 						rows="5"
 						maxlength="800"
@@ -132,25 +130,49 @@
 						on:keydown={() => (messageError = '')}
 						placeholder="Start typing..."
 					/>
-					<div class="text-rose-500">{messageError}</div>
+
+					<ValidationMessage text={messageError} />
 				</div>
 			</div>
 			<div class="md:flex md:items-baseline">
 				<div class="md:w-1/3" />
 				<div class="md:w-2/3">
-					<button
-						class="shadow bg-purple-500 hover:bg-purple-400 disabled:bg-purple-300 disabled:hover:bg-purple-300 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded"
-						type="submit"
-					>
-						{#if busy}
-							Hold on...
-						{:else}
-							Send Message
-						{/if}
-					</button>
+					<div class="flex items-baseline gap-4">
+						<button type="submit"> Send Message </button>
+						<HoldOn show={busy} />
+					</div>
 					<div class="text-rose-500">{error}</div>
 				</div>
 			</div>
 		</fieldset>
 	</form>
-{/if}
+
+	{#if sent}
+		<div
+			transition:fade
+			class="font-semibold absolute w-full h-full top-0 left-0 flex flex-col justify-center"
+		>
+			<div class="text-center">
+				<div class="py-3 px-4 bg-slate-300 rounded-xl inline-block m-auto">
+					Thank you for your message. We will get in touch with you as soon as possible.
+				</div>
+			</div>
+		</div>
+	{/if}
+</div>
+
+<style>
+	input,
+	textarea {
+		@apply bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-purple-500
+		transition-colors;
+	}
+
+	button[type='submit'] {
+		@apply shadow bg-purple-500 text-slate-100 font-bold py-2 px-4 rounded
+		hover:bg-purple-400 
+		disabled:bg-purple-300 disabled:hover:bg-purple-300 
+		active:text-white
+		transition-all;
+	}
+</style>
