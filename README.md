@@ -11,4 +11,4 @@ npm start
 
 ## Production
 
-This runs on GitHub Pages. For it to update,  make sure the /docs folder is up to date. To update it simply run `npm run build`. Then commit it.
+This runs on Netlify. CI is already setup. For it to update, just commit to `main`.
