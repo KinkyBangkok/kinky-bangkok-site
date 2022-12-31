@@ -4,9 +4,9 @@
 
 	export let subject = 'Contact Form';
 
-	let name: string = 'coo';
-	let email: string = 'kinktest@covle.com';
-	let message: string = 'penises';
+	let name: string = '';
+	let email: string = '';
+	let message: string = '';
 
 	let nameError: string = '';
 	let emailError: string = '';
