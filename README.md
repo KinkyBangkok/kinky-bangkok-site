@@ -2,7 +2,7 @@
 
 ## Development
 
-To run locally, make sure you have pnpm installed.
+To run locally, make sure you have `pnpm` (a better `npm`) installed. It is installable with `npm i -g pnpm` or through [the instrutions](https://pnpm.io/installation).
 
 ```
 pnpm i
