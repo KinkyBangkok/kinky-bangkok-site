@@ -1,6 +1,7 @@
 <nav class="flex items-center justify-center p-4">
 	<div class="flex items-center gap-4">
 		<a href="/events" class="navlink">our events</a>
+		<a href="/event-calendar" class="navlink">all events</a>
 		<a href="/rope-jams" class="navlink">rope jams</a>
 		<a href="/parties" class="navlink">parties</a>
 		<!-- <a href="/contact" class="navlink">contact</a> -->

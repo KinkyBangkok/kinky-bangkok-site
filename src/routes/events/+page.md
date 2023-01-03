@@ -3,11 +3,11 @@
 </script>
 
 <svelte:head>
-	<title>Kinky Events in Bangkok</title>
-	<meta name="description" content="Munch, Rope jam, Play parties, we have it all!" />
+	<title>KinkyBangkok Events</title>
+	<meta name="description" content="Our organized Kinky, BDSM and Fetish events in Bangkok" />
 </svelte:head>
 
-# Kink Events in Bangkok
+# KinkyBangkok Events
 
 Our events range from social gatherings and meet-and-greets to educational workshops and play parties.
 
