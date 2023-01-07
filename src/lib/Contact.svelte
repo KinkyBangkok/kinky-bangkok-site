@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { fade } from 'svelte/transition';
-	import { base } from '$app/paths';
 	import HoldOn from './HoldOn.svelte';
 	import ValidationMessage from './ValidationMessage.svelte';
 
@@ -63,13 +62,6 @@
 </script>
 
 <div class="relative">
-	<h2><center>contact us</center></h2>
-	<div class="md:flex md:items-baseline mb-6">
-		<p class="block text-gray-500 font-bold md:w-1/3">Write us in Line: </p> 
-		<a class="md:w-2/3 relative" href="https://line.me/R/ti/g/_OiPdwQgCh"><img class="centered-img" src="{base}/line_id.jpg" alt="Line ID"></a>
-	</div>
-	<center>or send us a message:</center>
-
 	<form
 		class="w-full max-w-xl transition-opacity opacity-100"
 		class:opacity-0={sent}
