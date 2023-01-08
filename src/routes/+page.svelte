@@ -22,5 +22,9 @@
 		events in Bangkok.
 	</article>
 
+	<article class="max-w-2xl mx-auto px-12 my-4">
+		<b>Upcoming Event:</b> <a class="bg-green-500 text-white active:bg-green-600 font-bold uppercase text-base px-8 py-3 rounded shadow-md hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button" href="/valentinedebauchery">Valentine Debauchery 11th February 2023</a>
+	</article>
+
 	<Navbar />
 </main>

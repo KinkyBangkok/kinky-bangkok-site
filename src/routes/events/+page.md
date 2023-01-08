@@ -13,7 +13,7 @@ Our events range from social gatherings and meet-and-greets to educational works
 
 - [Rope Jams](/rope-jams)
 - [Play Parties](/parties)
-  - Upcoming play party: **Forced Fun** <small>(Date to be announced)</small>
+  - Upcoming:   <a class="bg-green-500 text-white active:bg-green-600 font-bold uppercase text-base px-8 py-3 rounded shadow-md hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button" href="/valentinedebauchery">Valentine Debauchery 11th February 2023</a>
 - Beginner Rope Workshop <small>(Coming soon)</small>
 - Munches <small>(Coming soon)</small>
 
