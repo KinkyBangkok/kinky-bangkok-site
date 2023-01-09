@@ -17,13 +17,18 @@
 	</div>
 
 	<article class="max-w-2xl mx-auto px-12 my-4">
-		<b>Kinky Bangkok</b> - KBK for short - is a community based in Bangkok focused on Kink, BDSM and Sex.
-		We are open to locals, expats, visitors and new faces from all around the world. We have regular
+		<b>Kinky Bangkok</b> - KBK for short - is a community based in Bangkok focused on Kink, BDSM and
+		Sex. We are open to locals, expats, visitors and new faces from all around the world. We have regular
 		events in Bangkok.
 	</article>
 
 	<article class="max-w-2xl mx-auto px-12 my-4">
-		<b>Upcoming Event:</b> <a class="bg-green-500 text-white active:bg-green-600 font-bold uppercase text-base px-8 py-3 rounded shadow-md hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button" href="/valentinedebauchery">Valentine Debauchery 11th February 2023</a>
+		<b>Upcoming Event:</b>
+		<a
+			class="bg-green-500 inline-block text-white active:bg-green-600 font-bold uppercase text-base px-8 py-3 rounded shadow-md hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
+			type="button"
+			href="/valentinedebauchery">Valentine Debauchery 11th February 2023</a
+		>
 	</article>
 
 	<Navbar />
