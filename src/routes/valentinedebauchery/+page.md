@@ -21,6 +21,7 @@
 **We want to see you cum! Let's enjoy each other in kinky settings.**
 
 FetLife event: https://fetlife.com/events/1231701 
+FetLife group: https://fetlife.com/groups/251656
 
 This is a semi-public sexual play party. If you aren't part of the Kinky community yet, we made the verification process easy - just hit us up. Most guests are part of the Bangkok BDSM community already.
 
