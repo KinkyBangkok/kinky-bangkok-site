@@ -10,7 +10,7 @@
 
 <svelte:head>
 	<title>Valentine Debauchery - 11th February 2023</title>
-	<meta name="description" content="Kinky BDSM Play Party in Bangkok" />
+	<meta name="description" content="Kinky Bangkok hosts a kinky BDSM sex play Party in Bangkok. It is our first big event and we are proud of our location" />
 </svelte:head>
 
 # Valentine Debauchery
@@ -25,7 +25,10 @@ FetLife group: https://fetlife.com/groups/251656
 
 ## What we expect
 
-We want a party with kink and sex and nice conversations. More wet playing than usually in the kink community. Nobody should be ashamed to have sex where they want. Noone should be surprised of sex at this event.
+We want a party with kink and sex and nice conversations  
+More wet playing than usually in the kink community  
+Nobody should be ashamed to have sex where they want  
+Noone should be surprised of sex at this event  
 
 
 ## Equipment
@@ -38,22 +41,22 @@ We will provide basic equipment but feel free to bring what you want
 
 
 We also have a
-- fuckmachine
-- a real dog kennel 
-- a trampoline
-- a toy box
+- Fuckmachine
+- A dog box 
+- A trampoline
 
 ## Rooms
 
 - Outside showers (wet play possible)
-- bathtub (wet play possible)
-- balcony for public sex
-- chillax balcony
-- big dressing room with attached bathroom and bag storage
+- Bathtub (wet play possible)
+- Balcony for public sex
+- Chillax balcony
+- Big dressing room with attached bathroom and bag storage
 
 ## Location
 
-This party is at a private property and house. Playing on the property is safe to do so
+This party is at a private property and house. Playing on the property is safe to do so  
+It's not at the Supalai Elite Condo, it's just a nearby orientation point  
 
 __MRT__: Lumphini
 
@@ -63,19 +66,21 @@ __Parking__: Free parking available for bikes and cars
 
 
 ## Dresscode
-Dress to impress!
-You can arrive in any outfit but it is expected that you change into something nice.
-The changing room is big and convenient and we have enough space to store the bags and equipment.
+Dress to impress!  
+You can arrive in any outfit but it is expected that you change into something nice  
+The changing room is big and convenient and we have enough space to store the bags and equipment  
 
 - No Sandals/Crocs
 - No T-Shirts
 - No towels only outfit
 
 ## Verification
-This is a semi-public sexual play party. If you aren't part of the Kinky community yet, we made the verification process easy - just hit us up. Most guests are part of the Bangkok BDSM community already
+This is a semi-public sexual play party  
+If you aren't part of the Kinky community yet, we made the verification process easy - just hit us up  
+Most guests are part of the Bangkok BDSM community already
 
 
-Questions can be asked here:
+Questions can be asked here:  
 https://fetlife.com/groups/251656/posts/22372114
 
 
