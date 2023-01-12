@@ -60,7 +60,7 @@ It's not at the Supalai Elite Condo, it's just a nearby orientation point
 
 __MRT__: Lumphini
 
-__Nearby__: [Supalai Elite Sathon - Suan Phlu](https://goo.gl/maps/HCdGJ2KCUm3UK5zN9)
+__Nearby__: Detached house in Sathorn
 
 __Parking__: Free parking available for bikes and cars
 
