@@ -94,4 +94,6 @@ https://fetlife.com/groups/251656/posts/22372114
 
 <hr>
 
+<div class="text-center font-semibold">Want to join? Send us a message!</div>
+
 <Contact />

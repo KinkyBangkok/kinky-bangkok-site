@@ -61,6 +61,17 @@
 	}
 </script>
 
+<div class="flex w-full gap-8 justify-center not-prose my-4">
+	<div class="w-40">
+		<div class="text-center font-semibold">By Line</div>
+		<img src="line_qr.jpg" class="rounded" alt="Line QR Code" />
+	</div>
+	<div class="w-40 ">
+		<div class="text-center font-semibold">By Telegram</div>
+		<img class="p-4 bg-white rounded" src="telegram_qr.jpg" alt="Line QR Code" />
+	</div>
+</div>
+
 <div class="relative">
 	<form
 		class="w-full max-w-xl transition-opacity opacity-100"
@@ -69,6 +80,15 @@
 		on:submit|preventDefault={submit}
 		action="/?/sendContactForm"
 	>
+		<div class="md:flex md:items-baseline">
+			<div class="md:w-1/3" />
+			<div class="md:w-2/3">
+				<div class="flex items-baseline gap-4 font-semibold mb-2">
+					Or send us an email
+				</div>
+			</div>
+		</div>
+
 		<fieldset disabled={busy}>
 			<div class="md:flex md:items-baseline mb-6">
 				<div class="md:w-1/3">
