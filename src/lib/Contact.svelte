@@ -64,11 +64,11 @@
 <div class="flex w-full gap-8 justify-center not-prose my-4">
 	<div class="w-40">
 		<div class="text-center font-semibold">By Line</div>
-		<img src="line_qr.jpg" class="rounded" alt="Line QR Code" />
+		<a href="https://line.me/ti/p/bHPuHWvwdP"><img src="line_qr.jpg" class="rounded" alt="Line QR Code" /></a>
 	</div>
 	<div class="w-40 ">
 		<div class="text-center font-semibold">By Telegram</div>
-		<img class="p-4 bg-white rounded" src="telegram_qr.jpg" alt="Line QR Code" />
+		<a href="https://t.me/ErnstRobert"><img class="p-4 bg-white rounded" src="telegram_qr.jpg" alt="Line QR Code" /></a>
 	</div>
 </div>
 
