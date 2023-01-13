@@ -61,6 +61,8 @@
 	}
 </script>
 
+
+<hr>
 <div class="flex w-full gap-8 justify-center not-prose my-4">
 	<div class="w-40">
 		<div class="text-center font-semibold">By Line</div>
