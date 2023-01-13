@@ -20,7 +20,7 @@
 	</article>
 
 	<article class="text-white max-w-2xl mx-auto px-12 my-4">
-		<b>Upcoming Event:</b>
+		<h2 class="mb-4">Upcoming Event:</h2>
 		<a class="bg-kbk-red inline-block text-black active:text-white font-bold uppercase text-base px-8 py-3 rounded shadow-md hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
 			type="button" href="/valentinedebauchery">Valentine Debauchery 11th February 2023</a>
 	</article>
