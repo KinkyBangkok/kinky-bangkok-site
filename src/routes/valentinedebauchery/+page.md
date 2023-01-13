@@ -75,8 +75,11 @@ This is a semi-public sexual play party
 If you aren't part of the Kinky community yet, we made the verification process easy - just hit us up  
 Most guests are part of the Bangkok BDSM community already
 
+FetLife event: https://fetlife.com/events/1231701 
 
-Questions can be asked here:  
+FetLife group: https://fetlife.com/groups/251656
+
+Questions for this event can be asked here:  
 https://fetlife.com/groups/251656/posts/22372114
 
 
@@ -85,8 +88,6 @@ https://fetlife.com/groups/251656/posts/22372114
 <Img src={chair1_small} alt="chair1" />
 <Img src={chair2_small} alt="chair2" />
 <Img src={fuckmachine_small} alt="fuckmachine" />
-
-
 
 <hr>
 
