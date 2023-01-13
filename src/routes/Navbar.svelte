@@ -4,6 +4,7 @@
 		<a href="/event-calendar" class="navlink">all events</a>
 		<a href="/rope-jams" class="navlink">rope jams</a>
 		<a href="/parties" class="navlink">parties</a>
+		<a href="/communities" class="navlink">communities</a>
 		<!-- <a href="/contact" class="navlink">contact</a> -->
 	</div>
 </nav>
@@ -12,6 +13,6 @@
 	.navlink {
 		@apply text-black bg-slate-100 py-1 px-2 rounded transition-all font-semibold
 		hover:text-slate-600 hover:scale-110
-		active:text-purple-500;
+		active:text-black;
 	}
 </style>

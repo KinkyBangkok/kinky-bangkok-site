@@ -17,11 +17,7 @@
 ## by Kinky Bangkok
 ## 11th February 2023
 
-**We want to see you cum! Let's enjoy each other in kinky settings.**
-
-FetLife event: https://fetlife.com/events/1231701 
-
-FetLife group: https://fetlife.com/groups/251656
+We want to see you cum! Let's enjoy each other in kinky settings
 
 ## What we expect
 
