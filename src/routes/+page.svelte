@@ -10,7 +10,7 @@
 
 <main class="h-full flex justify-center text-center flex-col">
 	<div class="text-center w-full mb-4">
-		<img src="{base}/Logo_Vector_Red.png" class="m-auto" alt="The Logo" />
+		<img src="{base}/Logo_Vector_Red.png" class="m-auto max-w-[50%]" alt="The Logo" />
 	</div>
 
 	<article class="text-white max-w-2xl mx-auto px-12 my-4">

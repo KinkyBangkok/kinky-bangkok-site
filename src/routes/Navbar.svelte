@@ -1,11 +1,10 @@
-<nav class="flex items-center justify-center p-4">
-	<div class="flex items-center gap-4">
-		<a href="/events" class="navlink">our events</a>
-		<a href="/event-calendar" class="navlink">all events</a>
-		<a href="/rope-jams" class="navlink">rope jams</a>
-		<a href="/parties" class="navlink">parties</a>
-		<a href="/communities" class="navlink">communities</a>
-		<!-- <a href="/contact" class="navlink">contact</a> -->
+<nav class="flex justify-center p-4">
+	<div class="flex text-center align-end gap-4">
+		<a href="/events" class="navlink flex items-center">our events</a>
+		<a href="/event-calendar" class="navlink flex items-center">all events</a>
+		<a href="/rope-jams" class="navlink flex items-center">rope jams</a>
+		<a href="/parties" class="navlink flex items-center">parties</a>
+		<a href="/communities" class="navlink flex items-center">communities</a>
 	</div>
 </nav>
 
