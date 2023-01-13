@@ -1,5 +1,5 @@
 <nav class="flex justify-center p-4">
-	<div class="flex text-center align-end gap-4">
+	<div class="flex flex-wrap justify-center text-center align-end gap-4">
 		<a href="/events" class="navlink flex items-center">our events</a>
 		<a href="/event-calendar" class="navlink flex items-center">all events</a>
 		<a href="/rope-jams" class="navlink flex items-center">rope jams</a>
