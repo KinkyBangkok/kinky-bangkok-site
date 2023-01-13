@@ -4,8 +4,8 @@ const config = {
 	theme: {
 		extend: {
 			colors: {
-				'kbk-red': '#ff1b1b',
-				'kbk-black': '0f0f0f'
+				'kbk-red': '#dc2626',
+				'kbk-black': '#0f0f0f'
 			},
 			typography:
 				(theme) => ({

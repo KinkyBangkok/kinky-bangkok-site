@@ -12,7 +12,7 @@
 
 	<main class="flex justify-center">
 		<article
-			class="prose prose-red prose-headings:text-kbk-red w-full max-w-4xl my-12 px-8 py-8 bg-kbk-black rounded-lg border-2 border-kbk-red text-white"
+			class="prose prose-invert prose-headings:text-kbk-red w-full max-w-4xl my-12 px-8 py-8 bg-kbk-black rounded-lg border-2 border-kbk-red"
 			in:fly={{ y: -50, duration: 200, delay: 250 }}
 			out:fly={{ y: 50, duration: 200 }}
 		>
