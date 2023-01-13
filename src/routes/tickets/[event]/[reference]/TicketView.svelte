@@ -33,7 +33,7 @@
 			</div>
 		</div>
 		<div class="bg-white py-6">
-			<img src="{base}/logo.png" class="w-24 m-auto" alt="The Logo" />
+			<img src="{base}/Logo_Vector_Red.png" class="w-24 m-auto" alt="The Logo" />
 		</div>
 	</div>
 </div>

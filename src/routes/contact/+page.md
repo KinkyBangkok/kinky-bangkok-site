@@ -6,7 +6,7 @@
 <!-- Stuff for the head tag can go here (or anywhere) -->
 <svelte:head>
 	<title>Contact us! - Kinky Bangkok</title>
-	<meta name="description" content="Join the community! Contact us." />
+	<meta name="description" content="Join the Kink and Fetish community in Bangkok! Contact us." />
 </svelte:head>
 
 # Contact

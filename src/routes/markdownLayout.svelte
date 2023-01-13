@@ -12,7 +12,7 @@
 
 	<main class="flex justify-center">
 		<article
-			class="prose w-full max-w-4xl my-12 px-8 py-8 bg-slate-100"
+			class="prose prose-red prose-headings:text-kbk-red w-full max-w-4xl my-12 px-8 py-8 bg-kbk-black rounded-lg border-2 border-kbk-red text-white"
 			in:fly={{ y: -50, duration: 200, delay: 250 }}
 			out:fly={{ y: 50, duration: 200 }}
 		>
@@ -21,5 +21,5 @@
 	</main>
 
 	<div class="flex-1" />
-	<div class="text-center py-4 text-sm text-slate-800">Kinky Bangkok - 2023</div>
+	<div class="text-center py-4 text-sm text-white">Kinky Bangkok - 2023</div>
 </div>
