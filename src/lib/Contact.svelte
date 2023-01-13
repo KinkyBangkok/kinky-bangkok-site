@@ -63,14 +63,14 @@
 
 
 <hr>
-<div class="flex w-full gap-8 justify-center not-prose my-4">
-	<div class="w-40">
+<div class="flex w-full sm:gap-8 justify-center not-prose my-4">
+	<div class="w-36 sm:w-40 center">
 		<div class="text-center font-semibold">By Line</div>
-		<a href="https://line.me/ti/p/bHPuHWvwdP"><img src="line_qr.jpg" class="rounded" alt="Line QR Code" /></a>
+		<a class="block m-auto rounded w-[120px] sm:w-[160px]" href="https://line.me/ti/p/bHPuHWvwdP"><img src="line_qr.jpg" class="rounded w-full" alt="Line QR Code" /></a>
 	</div>
-	<div class="w-40 ">
+	<div class="w-36 sm:w-40 center">
 		<div class="text-center font-semibold">By Telegram</div>
-		<a href="https://t.me/ErnstRobert"><img class="p-4 bg-white rounded" src="telegram_qr.jpg" alt="Line QR Code" /></a>
+		<a class="block m-auto rounded w-[120px] sm:w-[160px]" href="https://t.me/ErnstRobert"><img class="rounded w-full p-4 bg-white rounded" src="telegram_qr.jpg" alt="Line QR Code" /></a>
 	</div>
 </div>
 
@@ -192,8 +192,8 @@
 
 	button[type='submit'] {
 		@apply shadow bg-purple-500 text-slate-100 font-bold py-2 px-4 rounded
-		hover:bg-purple-400 
-		disabled:bg-purple-300 disabled:hover:bg-purple-300 
+		hover:bg-purple-400
+		disabled:bg-purple-300 disabled:hover:bg-purple-300
 		active:text-white
 		transition-all;
 	}
