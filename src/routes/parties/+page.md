@@ -13,6 +13,4 @@ We aim to create monthly play parties for our members. We are currently still se
 
 Our first party "Valentine Debauchery" is free to RSVP!
 
---- 
-
 <Contact />

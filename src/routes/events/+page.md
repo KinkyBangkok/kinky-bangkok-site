@@ -17,8 +17,6 @@ Our events range from social gatherings and meet-and-greets to educational works
 - Beginner Rope Workshop <small>(Coming soon)</small>
 - Munches <small>(Coming soon)</small>
 
----
-
 To join you will just have to send us a message, and we will get back to you as soon as possible.
 
 <Contact />
