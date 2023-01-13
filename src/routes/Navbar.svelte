@@ -10,7 +10,7 @@
 
 <style>
 	.navlink {
-		@apply text-black bg-slate-100 py-1 px-2 rounded transition-all font-semibold
+		@apply text-black bg-slate-100 py-1 px-3 rounded transition-all font-semibold
 		hover:text-slate-600 hover:scale-110
 		active:text-black;
 	}
