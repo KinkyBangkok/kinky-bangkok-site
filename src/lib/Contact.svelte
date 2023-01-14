@@ -63,14 +63,14 @@
 
 
 <hr>
-<div class="flex w-full gap-8 justify-center not-prose my-4">
-	<div class="w-40">
+<div class="flex w-full sm:gap-8 justify-center not-prose my-4">
+	<div class="w-36 sm:w-40 center">
 		<div class="text-center font-semibold">By Line</div>
-		<a href="https://line.me/ti/p/bHPuHWvwdP"><img src="line_qr.jpg" class="rounded" alt="Line QR Code" /></a>
+		<a class="block m-auto rounded w-[120px] sm:w-[160px]" href="https://line.me/ti/p/bHPuHWvwdP"><img src="line_qr.jpg" class="rounded w-full" alt="Line QR Code" /></a>
 	</div>
-	<div class="w-40 ">
+	<div class="w-36 sm:w-40 center">
 		<div class="text-center font-semibold">By Telegram</div>
-		<a href="https://t.me/ErnstRobert"><img class="p-4 bg-white rounded" src="telegram_qr.jpg" alt="Line QR Code" /></a>
+		<a class="block m-auto rounded w-[120px] sm:w-[160px]" href="https://t.me/ErnstRobert"><img class="rounded w-full p-4 bg-white rounded" src="telegram_qr.jpg" alt="Line QR Code" /></a>
 	</div>
 </div>
 
@@ -103,6 +103,7 @@
 				</div>
 				<div class="md:w-2/3 relative">
 					<input
+					    class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-purple-500 transition-colors;"
 						id="inline-full-name"
 						bind:value={name}
 						on:keydown={() => (nameError = '')}
@@ -124,6 +125,7 @@
 				</div>
 				<div class="md:w-2/3 relative">
 					<input
+					    class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-purple-500 transition-colors;"
 						id="inline-email"
 						type="email"
 						maxlength="150"
@@ -145,6 +147,7 @@
 				</div>
 				<div class="md:w-2/3 relative">
 					<textarea
+					    class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-purple-500 transition-colors;"
 						id="inline-message"
 						rows="5"
 						maxlength="800"
@@ -160,7 +163,7 @@
 				<div class="md:w-1/3" />
 				<div class="md:w-2/3">
 					<div class="flex items-baseline gap-4">
-						<button type="submit"> Send Message </button>
+						<button class="bg-kbk-red inline-block text-black active:text-white font-bold uppercase text-base px-4 sm:px-8 py-3 rounded shadow-md hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="submit"> Send Message </button>
 						<HoldOn show={busy} />
 					</div>
 					<div class="text-rose-500">{error}</div>
@@ -182,19 +185,3 @@
 		</div>
 	{/if}
 </div>
-
-<style>
-	input,
-	textarea {
-		@apply bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-slate-500
-		transition-colors;
-	}
-
-	button[type='submit'] {
-		@apply shadow bg-red-600 text-slate-100 font-bold py-2 px-4 rounded
-		hover:bg-red-500 
-		disabled:bg-red-300 disabled:hover:bg-red-300 
-		active:text-white
-		transition-all;
-	}
-</style>
