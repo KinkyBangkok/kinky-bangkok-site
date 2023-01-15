@@ -60,7 +60,7 @@ It includes Thailand Kinks (TK), Thailand Misfits, Ropey Peeps and various event
             <td class="schedule-organiser">Thailand Kinks</td>
         </tr>
         <tr>
-            <td class="schedule-date">19 January 2023</td>  
+            <td class="schedule-date">19 January 2023</td>
             <td class="schedule-day">Thursday</td>
             <td class="schedule-type">Casual Meetup</td>
             <td class="schedule-organiser">Thailand Kinks</td>
@@ -141,6 +141,10 @@ To join you will just have to send us a message, and we will get back to you as 
         vertical-align: baseline;
     }
 
+
+    .schedule {
+        border-top: 1px solid var(--tw-prose-td-borders);
+    }
 
     /* Reassemble as cards */
     .schedule-date {
