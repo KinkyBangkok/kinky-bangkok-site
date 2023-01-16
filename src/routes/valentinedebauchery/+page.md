@@ -6,12 +6,16 @@
   import chair1_small from '$lib/assets/valentinedebauchery/chair1_small.jpg?run';
   import chair2_small from '$lib/assets/valentinedebauchery/chair2_small.jpg?run';
   import fuckmachine_small from '$lib/assets/valentinedebauchery/fuckmachine_small.jpg?run';
+  import flyer from '$lib/assets/valentinedebauchery/Flyer_ValentineDebauchery_00_medium.jpg?run';
+  const flyerUrl = new URL('$lib/assets/valentinedebauchery/Flyer_ValentineDebauchery_00_medium.jpg', import.meta.url).href
 </script>
 
 <svelte:head>
 	<title>Valentine Debauchery - 11th February 2023</title>
 	<meta name="description" content="Kinky Bangkok hosts a kinky BDSM sex play Party in Bangkok. It is our first big event and we are proud of our location" />
 </svelte:head>
+
+<a href={flyerUrl}><Img src={flyer} alt="Flyer" /></a>
 
 # Valentine Debauchery
 ## by Kinky Bangkok
