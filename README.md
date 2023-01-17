@@ -4,8 +4,14 @@
 
 To run locally, make sure you have `pnpm` (a better `npm`) installed. It is installable with `npm i -g pnpm` or through [the instrutions](https://pnpm.io/installation).
 
-```
+```sh
+# Create your local .env file
+cp .env.example .env
+
+# Install dependencies
 pnpm i
+
+# Start the dev server
 npm start
 ```
 

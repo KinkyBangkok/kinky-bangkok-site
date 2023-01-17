@@ -8,7 +8,7 @@
 
 <button
 	on:click={logout}
-	class="active:bg-red-200 hover:bg-red-100 transition-colors flex font-semibold text-red-600 gap-2 justify-center items-center mt-4 w-60 bg-white px-4 py-2 rounded"
+	class="transition-colors flex font-semibold text-red-600 gap-2 justify-center items-center w-60 px-4 py-2 rounded hover:text-red-500"
 >
 	<div>Sign out</div>
 </button>

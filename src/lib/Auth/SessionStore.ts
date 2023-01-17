@@ -29,5 +29,7 @@ export enum LoginState {
 	LOGGED_IN = 'logged-in',
 }
 
-const foo = await supabase.auth.getSession();
-console.log('initted', foo);
+const result = await supabase.auth.getSession();
+if (result.data.session) {
+	session.set(result.data.session);
+}

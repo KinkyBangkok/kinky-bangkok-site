@@ -1,7 +1,14 @@
 <script lang="ts">
-	import Guard from '../../lib/Auth/guard.svelte';
+	import Guard from '$lib/Auth/guard.svelte';
+	import UserNavbar from './UserNavbar.svelte';
 </script>
 
-<div class="flex flex-col h-full w-full max-w-4xl m-auto">
-  <Guard><slot /></Guard>
+<div class="h-full py-20">
+	<UserNavbar />
+
+	<div class="w-full max-w-4xl mt-8 m-auto">
+		<Guard>
+			<slot />
+		</Guard>
+	</div>
 </div>
