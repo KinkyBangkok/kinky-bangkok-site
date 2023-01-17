@@ -3,12 +3,12 @@
 	import { goto } from '$app/navigation';
 	import { page } from '$app/stores';
 	import { supabase } from '$lib/Auth/SupabaseClient';
+	import HoldOn from '$lib/HoldOn.svelte';
 	import type { Ticket } from '$lib/tickets/Ticket';
+	import TicketView from '$lib/tickets/TicketView.svelte';
 	import { error } from '@sveltejs/kit';
 	import { onMount } from 'svelte';
 	import { fade } from 'svelte/transition';
-	import HoldOn from '$lib/HoldOn.svelte';
-	import TicketView from '../../../../../lib/tickets/TicketView.svelte';
 	import TicketForm from '../../TicketForm.svelte';
 
 	let ticket: Ticket;
@@ -34,7 +34,7 @@
 
 		try {
 			await supabase.from('ticket').delete().eq('id', ticket.id);
-      goto('/u/tickets');
+			goto('/u/tickets');
 		} catch (err) {
 			console.error(err);
 		}

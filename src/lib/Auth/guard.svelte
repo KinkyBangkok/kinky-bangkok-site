@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { LoginState, loginState } from '$lib/Auth/SessionStore';
-	import GithubLoginButton from '../login/GithubLoginButton.svelte';
+	import LoginForm from './LoginForm.svelte';
 </script>
 
 {#if $loginState === LoginState.LOGGED_IN}
@@ -10,8 +10,7 @@
 {:else}
 	<slot name="no-auth">
 		<div>
-			Not Logged in.
-			<GithubLoginButton />
+			<LoginForm />
 		</div>
 	</slot>
 {/if}

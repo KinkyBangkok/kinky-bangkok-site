@@ -1,6 +1,6 @@
 <script lang="ts">
-	import type { Ticket } from '../../../../lib/tickets/Ticket';
-	import TicketView from '../../../../lib/tickets/TicketView.svelte';
+	import type { Ticket } from '$lib/tickets/Ticket';
+	import TicketView from '$lib/tickets/TicketView.svelte';
 
 	export let data: { ticket: Ticket };
 
