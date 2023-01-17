@@ -26,10 +26,12 @@ export const token = derived(session, ($session) => {
 export enum LoginState {
 	UNKNOWN = 'unknown',
 	NOT_LOGGED_IN = 'not-logged-in',
-	LOGGED_IN = 'logged-in',
+	LOGGED_IN = 'logged-in'
 }
 
-const result = await supabase.auth.getSession();
-if (result.data.session) {
-	session.set(result.data.session);
-}
+(async () => {
+	const result = await supabase.auth.getSession();
+	if (result.data.session) {
+		session.set(result.data.session);
+	}
+})();
