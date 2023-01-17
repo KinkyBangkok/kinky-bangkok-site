@@ -6,8 +6,7 @@
 
 	async function githubSignin() {
 		await supabase.auth.signInWithOAuth({
-			provider: 'github',
-			options: { redirectTo: window.location.href }
+			provider: 'github'
 		});
 	}
 </script>
