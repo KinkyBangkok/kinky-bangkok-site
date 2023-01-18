@@ -12,7 +12,7 @@
 
 <svelte:head>
 	<title>Valentine Debauchery - 11th February 2023</title>
-	<meta name="description" content="Kinky Bangkok hosts a kinky BDSM sex play Party in Bangkok. It is our first big event and we are proud of our location" />
+	<meta name="description" content="Kinky Bangkok hosts a kinky BDSM carnal play Party in Bangkok. It is our first big event and we are proud of our location" />
 </svelte:head>
 
 <a href={flyerUrl}><Img src={flyer} alt="Flyer" /></a>
@@ -25,10 +25,10 @@ We want to see you cum! Let's enjoy each other in kinky settings
 
 ## What we expect
 
-We want a party with kink and sex and nice conversations  
+We want a party with kink and carnal satisfaction and nice conversations  
 More wet playing than usually in the kink community  
-Nobody should be ashamed to have sex where they want  
-Noone should be surprised of sex at this event  
+Nobody should be ashamed to have rumpy pumpy where they want  
+Noone should be surprised of explicit display at this event  
 
 
 ## Equipment
@@ -41,7 +41,7 @@ We will provide basic equipment but feel free to bring what you want
 
 
 We also have a
-- Fuckmachine
+- Fucking machine
 - A dog box 
 - A trampoline
 
@@ -49,18 +49,15 @@ We also have a
 
 - Outside showers (wet play possible)
 - Bathtub (wet play possible)
-- Balcony for public sex
+- Big Balcony
 - Chillax balcony
 - Big dressing room with attached bathroom and bag storage
 
 ## Location
 
-This party is at a private property and house. Playing on the property is safe to do so  
-It's not at the Supalai Elite Condo, it's just a nearby orientation point  
+__What__: Detached house with property
 
-__MRT__: Lumphini
-
-__Nearby__: Detached house in Sathorn
+__Where__: Sathorn
 
 __Parking__: Free parking available for bikes and cars
 
@@ -75,7 +72,7 @@ The changing room is big and convenient and we have enough space to store the ba
 - No towels only outfit
 
 ## Verification
-This is a semi-public sexual play party  
+This is a more open carnal play party  
 If you aren't part of the Kinky community yet, we made the verification process easy - just hit us up  
 Most guests are part of the Bangkok BDSM community already
 
