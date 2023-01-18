@@ -6,8 +6,8 @@
   import chair1_small from '$lib/assets/valentinedebauchery/chair1_small.jpg?run';
   import chair2_small from '$lib/assets/valentinedebauchery/chair2_small.jpg?run';
   import fuckmachine_small from '$lib/assets/valentinedebauchery/fuckmachine_small.jpg?run';
-  import flyer from '$lib/assets/valentinedebauchery/Flyer_ValentineDebauchery_00.jpg?run';
-  const flyerUrl = new URL('$lib/assets/valentinedebauchery/Flyer_ValentineDebauchery_00_medium.jpg', import.meta.url).href
+  import flyer from '$lib/assets/valentinedebauchery/Flyer_ValentineDebauchery_01.jpg?run';
+  const flyerUrl = new URL('$lib/assets/valentinedebauchery/Flyer_ValentineDebauchery_01.jpg', import.meta.url).href
 </script>
 
 <svelte:head>
