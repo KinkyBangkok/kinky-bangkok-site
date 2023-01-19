@@ -4,7 +4,7 @@
 	import Navbar from './Navbar.svelte';
 </script>
 
-<div class="flex flex-col h-full">
+<div class="flex flex-col h-full py-10 sm:py-20">
 	<div class="mt-8">
 		<Header />
 		<Navbar />

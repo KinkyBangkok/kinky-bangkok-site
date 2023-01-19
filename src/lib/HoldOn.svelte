@@ -25,7 +25,7 @@
 </script>
 
 {#if show}
-	<div transition:fade>
+	<div transition:fade={{ duration: 120 }}>
 		Hold on{dots}
 	</div>
 {/if}
