@@ -19,7 +19,7 @@
 
 # Valentine Debauchery
 ## by Kinky Bangkok
-## 11th February 2023
+## 11th February 2023 - Start 7 pm until open end
 
 We want to see you cum! Let's enjoy each other in kinky settings
 
