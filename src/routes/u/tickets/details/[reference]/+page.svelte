@@ -45,12 +45,12 @@
 </script>
 
 {#if ticket}
-	<div class="flex">
+	<div class="flex flex-col gap-4 sm:flex-row">
 		<div class="grow">
 			<TicketForm {ticket} />
 		</div>
 
-		<div>
+		<div class="self-center">
 			<a href="/tickets/{ticket.event_name}/{ticket.reference}">
 				<TicketView {ticket} />
 			</a>

@@ -1,12 +1,16 @@
 <script lang="ts">
+	import { page } from '$app/stores';
 	import { supabase } from '$lib/Auth/SupabaseClient';
 	import GithubIcon from './GithubIcon.svelte';
 
 	export let disabled = false;
 
+	$: redirectTo = $page.url.origin + '/u';
+
 	async function githubSignin() {
 		await supabase.auth.signInWithOAuth({
-			provider: 'github'
+			provider: 'github',
+			options: { redirectTo }
 		});
 	}
 </script>

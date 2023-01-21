@@ -28,7 +28,6 @@
 <h1 class="font-bold text-lg mb-4 mt-8">Tickets</h1>
 
 <div class="text-right">
-  <!-- <button class="btn" on:click={getTickets}>refresh</button>  -->
 	<a class="btn btn-primary" href="/u/tickets/create">Create Ticket</a>
 </div>
 
