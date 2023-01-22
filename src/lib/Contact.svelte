@@ -66,11 +66,11 @@
 <div class="flex w-full sm:gap-8 justify-center not-prose my-4">
 	<div class="w-36 sm:w-40 center">
 		<div class="text-center font-semibold">By Line</div>
-		<a class="block m-auto rounded w-[120px] sm:w-[160px]" href="https://line.me/ti/p/bHPuHWvwdP"><img src="line_qr.jpg" class="rounded w-full" alt="Line QR Code" /></a>
+		<a class="block m-auto rounded w-[120px] sm:w-[160px]" href="https://line.me/ti/p/bHPuHWvwdP"><img src="/line_qr.jpg" class="rounded w-full" alt="Line QR Code" /></a>
 	</div>
 	<div class="w-36 sm:w-40 center">
 		<div class="text-center font-semibold">By Telegram</div>
-		<a class="block m-auto rounded w-[120px] sm:w-[160px]" href="https://t.me/ErnstRobert"><img class="rounded w-full p-4 bg-white rounded" src="telegram_qr.jpg" alt="Line QR Code" /></a>
+		<a class="block m-auto rounded w-[120px] sm:w-[160px]" href="https://t.me/ErnstRobert"><img class="rounded w-full p-4 bg-white rounded" src="/telegram_qr.jpg" alt="Line QR Code" /></a>
 	</div>
 </div>
 

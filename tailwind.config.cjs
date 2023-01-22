@@ -12,6 +12,8 @@ const config = {
 					DEFAULT: {
 						css: {
 							'--tw-prose-bold': theme('colors.kbk-red'),
+							'blockquote p:first-of-type::before': false,
+							'blockquote p:last-of-type::after': false,
 						},
 					},
 				}),
