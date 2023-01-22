@@ -26,7 +26,11 @@
   > Deviant Thailand is an commercial event organizer in Bangkok with international experience
 - [Kink Empire](/communities/KinkEmpire)  
   > Kink Empire is a big player in BDSM clubs and bars. They own several locations in Thailand and are dedicated to Kink and BDSM
- 
+
+# Master / Mistresses / Dominatrix
+
+- [House of Dominance](http://thaimistress.net/)
+  > Owner and Head Mistress, House of Dominance , Bangkok's most premier BDSM Dungeon 
 
 
 <Contact />
