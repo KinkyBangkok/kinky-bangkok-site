@@ -15,9 +15,9 @@
 	</div>
 
 	<article class="text-white max-w-2xl mx-auto px-12 my-4">
-		<b>Kinky Bangkok</b> - KBK for short - is a community based in Bangkok focused on Kink, BDSM and
+		<h1><b>Kinky Bangkok</b> - KBK for short - is a community based in Bangkok focused on Kink, BDSM and
 		Sex. We are open to locals, expats, visitors and new faces from all around the world. We have regular
-		events in Bangkok.
+		play parties, bdsm workshops and fetish events in Bangkok.</h1>
 	</article>
 
 	<article class="text-white max-w-2xl mx-auto px-12 my-4">
