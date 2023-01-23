@@ -1,12 +1,13 @@
+<svelte:head>
+	<title>Kinky Bangkok - join the community!</title>
+	<meta name="description" content="We are a community based in Bangkok focused on Kink and BDSM. We are open to locals, expats, visitors and new faces from all around the world. We have regular events and parties in Bangkok." />
+</svelte:head>
+
 <script>
 	import { base } from '$app/paths';
 	import Navbar from './Navbar.svelte';
 </script>
 
-<svelte:head>
-	<title>Kinky Bangkok</title>
-	<meta name="description" content="Kinky Bangkok is a community for Kink, BDSM and fetish in Bangkok" />
-</svelte:head>
 
 <main class="h-full flex justify-center text-center flex-col">
 	<div class="text-center w-full mb-4">
