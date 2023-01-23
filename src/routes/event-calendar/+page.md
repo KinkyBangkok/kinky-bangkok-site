@@ -4,7 +4,7 @@
 
 <svelte:head>
 	<title>Kinky Events in Bangkok</title>
-	<meta name="description" content="All kinky events for this month in Bangkok including all other communities" />
+	<meta name="description" content="Kinky events, fetish play parties, learn shibari workshops, fetish stores and so much more in Bangkok" />
 </svelte:head>
 
 # Kinky Events in Bangkok for January

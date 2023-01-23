@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Kinky Bangkok - About us</title>
+	<title>Kinky Bangkok explained - the modern Kinkster for BDSM in Thailand</title>
 	<meta name="description" content="About us: We are an inclusive community for the kink, BDSM and fetish community based in Bangkok" />
 </svelte:head>
 

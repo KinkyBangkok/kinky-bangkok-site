@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Rope Jams - Kinky Bangkok</title>
+	<title>Rope Jams hosterd by Kinky Bangkok in Thailand</title>
 	<meta name="description" content="Want to learn Shibari? Want to find someone to practice together? Join us!" />
 </svelte:head>
 

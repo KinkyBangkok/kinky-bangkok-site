@@ -11,7 +11,7 @@
 </script>
 
 <svelte:head>
-	<title>Valentine Debauchery - 11th February 2023</title>
+	<title>Valentine Debauchery a kinky BDSM carnal play party on 11th February 2023</title>
 	<meta name="description" content="Kinky Bangkok hosts a kinky BDSM carnal play Party in Bangkok. It is our first big event and we are proud of our location" />
 </svelte:head>
 
