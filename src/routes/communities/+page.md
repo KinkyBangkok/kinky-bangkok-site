@@ -7,7 +7,9 @@
 	<meta name="description" content="Overview about Kinky/BDSM/Fetish Communities in Bangkok" />
 </svelte:head>
 
-# Kink Groups in Bangkok
+# Overview about the Bangkok BDSM, Party and Kink scene
+
+## Kink Groups in Bangkok
 
 - [Kinky Bangkok - KBK](/communities/KinkyBangkok)
   > This is us! We are a modern, young and progressive kink community in Bangkok!
@@ -20,7 +22,7 @@
 - [Thailand BDSM: Let's Play and Learn](https://www.facebook.com/ThailandBDSMV1/)
   > Thai language Facebook community about BDSM
 
-# Events/Parties
+## Events/Parties
 
 - [KinkyBKK by Pulse](/communities/PulseKinkyBKK) 
   > KinkyBKK is an event series by Pulse Clinic and targets the kinky LGBT+ community
@@ -29,10 +31,24 @@
 - [Kink Empire](/communities/KinkEmpire)  
   > Kink Empire is a big player in BDSM clubs and bars. They own several locations in Thailand and are dedicated to Kink and BDSM
 
-# Master / Mistresses / Dominatrix
+
+## Shops
+
+- [ForFun store](https://www.forfun.store/) 
+  > A Fetish, Bodysuite and Petplay store with a very dedicated owner near Central Pinklao
+
+## Master / Mistresses / Dominatrix
 
 - [House of Dominance](http://thaimistress.net/)
   > Owner and Head Mistress, House of Dominance , Bangkok's most premier BDSM Dungeon 
+
+## Bars and Clubs
+
+- [BarBar Fetish Club](https://www.barbarfetishclub.com/)  
+  > The BarBar Fetish Club is a BDSM ladybar at Patpong and is part of the Kink Empire
+
+- [Demonia Fetish Club](http://www.demoniabangkok.com/)  
+> The Demonia Fetish and Fantasy Club is a BDSM ladybar at Sukhumvit 33 and is part of the Kink Empire
 
 
 <Contact />
