@@ -51,7 +51,9 @@
   > The BarBar Fetish Club is a BDSM ladybar at Patpong and is part of the Kink Empire
 
 - [Demonia Fetish Club](/communities/Demonia)  
-> The Demonia Fetish and Fantasy Club is a BDSM ladybar at Sukhumvit 33 and is part of the Kink Empire
+  > The Demonia Fetish and Fantasy Club is a BDSM ladybar at Sukhumvit 33 and is part of the Kink Empire
 
+- [500 Cafe](/communities/500Cafe)  
+  > The first Fetish & BDSM Cafe in Bangkok from ForFun Store
 
 <Contact />
