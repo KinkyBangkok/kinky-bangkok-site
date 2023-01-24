@@ -34,20 +34,23 @@
 
 ## Shops
 
-- [ForFun store](https://www.forfun.store/) 
-  > A Fetish, Bodysuite and Petplay store with a very dedicated owner near Central Pinklao
+- [ForFun store](/communities/ForFun) 
+  > A Fetish, Bodysuit and Petplay store with a very dedicated owner near Central Pinklao
+
+- [The Hidden Closet](/communities/HiddenCloset)
+  > Small lingerie and sex shop at Thonglor
 
 ## Master / Mistresses / Dominatrix
 
-- [House of Dominance](http://thaimistress.net/)
+- [House of Dominance](/communities/HouseOfDominance)
   > Owner and Head Mistress, House of Dominance , Bangkok's most premier BDSM Dungeon 
 
 ## Bars and Clubs
 
-- [BarBar Fetish Club](https://www.barbarfetishclub.com/)  
+- [BarBar Fetish Club](/communities/BarBar)  
   > The BarBar Fetish Club is a BDSM ladybar at Patpong and is part of the Kink Empire
 
-- [Demonia Fetish Club](http://www.demoniabangkok.com/)  
+- [Demonia Fetish Club](/communities/Demonia)  
 > The Demonia Fetish and Fantasy Club is a BDSM ladybar at Sukhumvit 33 and is part of the Kink Empire
 
 

@@ -12,7 +12,7 @@
 
 ## About
 
-The Kink Empire is a bi-monthly fetish event series
+The Kink Empire is a bi-monthly fetish party event series
 
 
 ## Location
@@ -40,9 +40,9 @@ Fur/Furries - Puppies - Bizarre - Steampunk - Punk - Burlesque - Drag - Uniforms
 
 ## Links
 
-- FetLife User: [https://fetlife.com/users/7766780](Starks-Kink-One)
+- FetLife User: [Starks-Kink-One](https://fetlife.com/users/7766780)
 - FetLife Group: [https://fetlife.com/groups/249476](https://fetlife.com/groups/249476)
 - Tickets: [https://www.ticketmelon.com/thekinkempire](https://www.ticketmelon.com/thekinkempire)
-- Instagram: starks_kink_one
+- Instagram: [starks_kink_one](https://www.instagram.com/starks_kink_one/)
 
 <Contact />
