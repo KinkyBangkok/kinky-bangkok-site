@@ -61,36 +61,51 @@
 	}
 </script>
 
+<hr />
 
-<hr>
-<div class="flex w-full sm:gap-8 justify-center not-prose my-4">
-	<div class="w-36 sm:w-40 center">
-		<div class="text-center font-semibold">By Line</div>
-		<a class="block m-auto rounded w-[120px] sm:w-[160px]" href="https://line.me/ti/p/bHPuHWvwdP"><img src="/line_qr.jpg" class="rounded w-full" alt="Line QR Code" /></a>
+<div class="flex flex-col gap-6">
+	<div class="flex w-full sm:gap-8 justify-center not-prose my-4">
+		<div class="w-36 sm:w-40 center">
+			<div class="text-center font-semibold">By Line</div>
+			<a class="block m-auto rounded w-[120px] sm:w-[160px]" href="https://line.me/ti/p/bHPuHWvwdP"
+				><img src="/line_qr.jpg" class="rounded w-full" alt="Line QR Code" /></a
+			>
+		</div>
+		<div class="w-36 sm:w-40 center">
+			<div class="text-center font-semibold">By Telegram</div>
+			<a class="block m-auto rounded w-[120px] sm:w-[160px]" href="https://t.me/ErnstRobert"
+				><img
+					class="rounded w-full p-4 bg-white rounded"
+					src="/telegram_qr.jpg"
+					alt="Line QR Code"
+				/></a
+			>
+		</div>
 	</div>
-	<div class="w-36 sm:w-40 center">
-		<div class="text-center font-semibold">By Telegram</div>
-		<a class="block m-auto rounded w-[120px] sm:w-[160px]" href="https://t.me/ErnstRobert"><img class="rounded w-full p-4 bg-white rounded" src="/telegram_qr.jpg" alt="Line QR Code" /></a>
-	</div>
-</div>
 
-<div class="relative">
+	<div class="md:flex md:items-baseline flex w-full sm:gap-8 justify-center not-prose">
+		or
+	</div>
+
+	<div class="md:flex md:items-baseline flex w-full sm:gap-8 justify-center not-prose">
+		<a class="block text-gray-300 font-bold md:text-right mb-1 md:mb-0 pr-4">Email:</a>
+		<a
+			class="block text-white font-bold md:text-right mb-1 md:mb-0 pr-4"
+			href="mailto: website+click@kinkybangkok.com">website@kinkybangkok.com</a
+		>
+	</div>
+
+	<div class="md:flex md:items-baseline flex w-full sm:gap-8 justify-center not-prose">
+		or
+	</div>
+
 	<form
-		class="w-full max-w-xl transition-opacity opacity-100"
+		class="w-full transition-opacity  opacity-100"
 		class:opacity-0={sent}
 		novalidate
 		on:submit|preventDefault={submit}
 		action="/?/sendContactForm"
 	>
-		<div class="md:flex md:items-baseline">
-			<div class="md:w-1/3" />
-			<div class="md:w-2/3">
-				<div class="flex items-baseline gap-4 font-semibold mb-2">
-					Or send us an email
-				</div>
-			</div>
-		</div>
-
 		<fieldset disabled={busy}>
 			<div class="md:flex md:items-baseline mb-6">
 				<div class="md:w-1/3">
@@ -101,9 +116,9 @@
 						Name or Nickname
 					</label>
 				</div>
-				<div class="md:w-2/3 relative">
+				<div class="md:w-2/5 relative">
 					<input
-					    class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-purple-500 transition-colors;"
+						class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-kbk-red transition-colors;"
 						id="inline-full-name"
 						bind:value={name}
 						on:keydown={() => (nameError = '')}
@@ -123,9 +138,9 @@
 						Email
 					</label>
 				</div>
-				<div class="md:w-2/3 relative">
+				<div class="md:w-2/5 relative">
 					<input
-					    class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-purple-500 transition-colors;"
+						class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-kbk-red transition-colors;"
 						id="inline-email"
 						type="email"
 						maxlength="150"
@@ -145,9 +160,9 @@
 						Message
 					</label>
 				</div>
-				<div class="md:w-2/3 relative">
+				<div class="md:w-2/5 relative">
 					<textarea
-					    class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-purple-500 transition-colors;"
+						class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-kbk-red transition-colors;"
 						id="inline-message"
 						rows="5"
 						maxlength="800"
@@ -161,9 +176,14 @@
 			</div>
 			<div class="md:flex md:items-baseline">
 				<div class="md:w-1/3" />
-				<div class="md:w-2/3">
-					<div class="flex items-baseline gap-4">
-						<button class="bg-kbk-red inline-block text-black active:text-white font-bold uppercase text-base px-4 sm:px-8 py-3 rounded shadow-md hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="submit"> Send Message </button>
+				<div class="md:w-2/5">
+					<div class="flex items-baseline justify-center gap-4">
+						<button
+							class="bg-kbk-red inline-block text-black active:text-white font-bold uppercase text-base px-4 sm:px-8 py-3 rounded shadow-md hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
+							type="submit"
+						>
+							Send Message
+						</button>
 						<HoldOn show={busy} />
 					</div>
 					<div class="text-rose-500">{error}</div>
