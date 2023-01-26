@@ -2,7 +2,6 @@
 	<div class="flex flex-wrap justify-center text-center align-end gap-4">
 		<a href="/events" class="navlink">event overview</a>
 		<a href="/rope-jams" class="navlink">rope jams</a>
-		<a href="/valentinedebauchery" class="navlink">valentine debauchery</a>
 		<a href="/communities" class="navlink">community list</a>
 		<a href="/event-calendar" class="navlink">community events</a>
 	</div>

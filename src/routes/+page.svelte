@@ -20,11 +20,5 @@
 		play parties, bdsm workshops and fetish events in Bangkok.</h1>
 	</article>
 
-	<article class="text-white max-w-2xl mx-auto px-12 my-4">
-		<h2 class="mb-4">Upcoming Event:</h2>
-		<a class="bg-kbk-red inline-block text-black active:text-white font-bold uppercase text-base px-4 sm:px-8 py-3 rounded shadow-md hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
-			type="button" href="/valentinedebauchery">Valentine Debauchery 11th&nbsp;February&nbsp;2023</a>
-	</article>
-
 	<Navbar />
 </main>
