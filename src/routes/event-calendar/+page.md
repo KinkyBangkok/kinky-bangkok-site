@@ -21,6 +21,7 @@ It includes [Thailand Kink](/communities/ThailandKink) (TK), [Thailand Misfits](
 | 10 February 2023 | Friday | Monthly Munch | [Thailand Kink](/communities/ThailandKink) |
 | 11 February 2023 | Saturday | Cookies & Bubbles Girl Lounge | [Thailand Misfits](/communities/ThailandMisfits) |
 | 12 February 2023 | Sunday | Munch Lunch | [Thailand Misfits](/communities/ThailandMisfits) |
+| 14 February 2023 | Tuesday | Valentines Day Tantric Workshop | [Deviant Thailand](/communities/DeviantThailand) 
 | 16 February 2023 | Thursday | Casual Meetup | [Thailand Kink](/communities/ThailandKink) |
 | 18 February 2023 | Saturday | Play Party | [Thailand Misfits](/communities/ThailandMisfits) |
 | 22 February 2023 | Wednesday | Whip Tribe | [Thailand Misfits](/communities/ThailandMisfits) |
