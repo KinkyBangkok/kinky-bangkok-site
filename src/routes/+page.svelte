@@ -4,10 +4,10 @@
 </script>
 
 <svelte:head>
-	<title>Kinky Bangkok - modern BDSM community, event and workshop organizer in Thailand</title>
+	<title>Kinky Bangkok - modern BDSM community in Thailand</title>
 	<meta
 		name="description"
-		content="We are a community based in Bangkok focused on Kink and BDSM. We are open to locals, expats, visitors and new faces from all around the world. We have regular events and parties in Bangkok."
+		content="We are a community based in Bangkok focused on Kink and BDSM. We are open to locals, expats, visitors and new faces from all around the world"
 	/>
 </svelte:head>
 
