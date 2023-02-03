@@ -19,7 +19,7 @@
   > Thailand Misfits is one of the biggest kink communities in Bangkok. They have their own secret hideout
 - [Thailand Ropey Peeps - RP](/communities/ThailandRopeyPeeps)
   > Thailand Ropey Peeps is the biggest english speaking bondage group in Bangkok. They are active on Line and FetLife
-- [Thailand BDSM: Let's Play and Learn](https://www.facebook.com/ThailandBDSMV1/)
+- [Thailand BDSM: Let's Play and Learn](/communities/ThailandBDSM)
   > Thai language Facebook community about BDSM
 
 ## Events/Parties
@@ -31,6 +31,13 @@
 - [Kink Empire](/communities/KinkEmpire)  
   > Kink Empire is a big player in BDSM clubs and bars. They own several locations in Thailand and are dedicated to Kink and BDSM
 
+## Playgrounds
+
+- [The Hanger](/communities/TheHanger) 
+  > BDSM dungeon in the far north of Bangkok
+
+- [Studio69](/communities/Studio69) 
+  > Community dungeon hidden at Sathorn
 
 ## Shops
 
