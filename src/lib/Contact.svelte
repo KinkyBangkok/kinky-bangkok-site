@@ -23,7 +23,7 @@
 	<div class="md:flex md:items-baseline flex w-full sm:gap-8 justify-center not-prose">or</div>
 
 	<div class="md:flex md:items-baseline flex w-full sm:gap-8 justify-center not-prose">
-		<a class="block text-gray-300 font-bold md:text-right mb-1 md:mb-0 pr-4">Email:</a>
+		<div class="block text-gray-300 font-bold md:text-right mb-1 md:mb-0 pr-4">Email:</div>
 		<a
 			class="block text-white font-bold md:text-right mb-1 md:mb-0 pr-4"
 			href="mailto: website+click@kinkybangkok.com">website@kinkybangkok.com</a

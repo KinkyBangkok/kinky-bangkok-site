@@ -3,6 +3,7 @@
 	import Header from './Header.svelte';
 	import Navbar from './Navbar.svelte';
 	import Contact from '$lib/Contact.svelte';
+	import '../app.postcss';
 	export const prerender = true;
 </script>
 
