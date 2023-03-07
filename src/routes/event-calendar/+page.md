@@ -7,7 +7,7 @@
 	<meta name="description" content="Kinky events, fetish play parties, learn shibari workshops, fetish stores and so much more in Bangkok" />
 </svelte:head>
 
-# Kinky Events in Bangkok for February
+# Kinky Events in Bangkok for March
 
 Our calendar features events from all sources in Bangkok we could find.
 It includes [Thailand Kink](/communities/ThailandKink) (TK), [Thailand Misfits](/communities/ThailandMisfits), [Ropey Peeps](/communities/ThailandRopeyPeeps) and various events from Fetlife
