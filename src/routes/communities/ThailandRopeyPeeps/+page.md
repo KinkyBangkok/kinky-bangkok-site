@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 
@@ -53,5 +51,3 @@ We also have a group - not the most active - but help us make it more interestin
 
 - FetLife User: [https://fetlife.com/users/9433365](https://fetlife.com/users/9433365)
 - FetLife Group: [https://fetlife.com/groups/181709](https://fetlife.com/groups/181709)
-
-<Contact />

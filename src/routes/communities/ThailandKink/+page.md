@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 
@@ -56,5 +54,3 @@ Founded in 2009 Thailand Kink celebrated 10th birthday in 2019 with 4,000+ membe
 - Website: [https://thailandkink.com/](https://thailandkink.com/)
 - Instagram [thailandkink](https://instagram.com/thailandkink/)
 - Line [@484rigci](https://lin.ee/Tv3u6JN)
-
-<Contact />

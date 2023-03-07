@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 
@@ -58,5 +56,3 @@ Next to Major Cineplex Pinklao 508 Sammie Alley, Bang Bumru, Bang Phlat, Bangkok
 - Facebook: [forfunbangkok](https://www.facebook.com/forfunbangkok/)
 - E-Mail: info@forfun.store
 - Phone: +66 830801421
-
-<Contact />

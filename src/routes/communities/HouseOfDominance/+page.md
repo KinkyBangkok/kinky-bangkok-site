@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 
@@ -56,5 +54,3 @@ After the booking confirmation, we will send you meeting point location. We pref
 - Twitter: [@Thaimistressbkk](https://twitter.com/Thaimistressbkk)
 - Line: [@Midorihouse](https://lin.ee/AMesJPD)
 - E-Mail: thaimistressbkk@gmail.com
-
-<Contact />

@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 
@@ -57,5 +55,3 @@ If you are coming from the underground, you can either take the taxi from Asoke 
 - Website: [http://demoniabangkok.com/BDSM/](http://demoniabangkok.com/BDSM/)
 - Telephone: 02 123 8677
 - E-Mail: welcome@demoniabangkok.com
-
-<Contact />

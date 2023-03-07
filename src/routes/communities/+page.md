@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 	<title>KinkyBangkok Events</title>
@@ -65,4 +63,3 @@
 - [500 Cafe](/communities/500Cafe)  
   > The first Fetish & BDSM Cafe in Bangkok from ForFun Store
 
-<Contact />

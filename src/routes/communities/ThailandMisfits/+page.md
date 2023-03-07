@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 <title>Thailand Misfits on KinkyBangkok.com</title>
@@ -46,5 +44,3 @@ We are here to learn, play and grow our community together. All roles, and D/s s
 
 - Skaggi
 - Wonder
-
-<Contact />

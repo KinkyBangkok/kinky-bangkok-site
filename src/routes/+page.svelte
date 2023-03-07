@@ -1,6 +1,6 @@
-<script>
-	import { base } from '$app/paths';
+<script lang="ts">
 	import Navbar from './Navbar.svelte';
+	import '../app.postcss';
 </script>
 
 <svelte:head>
@@ -14,7 +14,7 @@
 <main class="h-full flex justify-center text-center flex-col">
 	<div class="text-center w-full mb-4">
 		<img
-			src="{base}/Logo_Vector_Red.png"
+			src="/Logo_Vector_Red.png"
 			class="m-auto sm:max-w-[260px] max-w-[50%]"
 			alt="The Logo"
 		/>

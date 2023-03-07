@@ -1,7 +1,3 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
-
 <svelte:head>
 	<title>Kinky Bangkok explained - the modern Kinkster for BDSM in Thailand</title>
 	<meta name="description" content="About us: We are an inclusive community for the kink, BDSM and fetish community based in Bangkok" />
@@ -15,4 +11,3 @@ Whether you are new to the kink scene or have been exploring your fetishes for y
 
 To join us, all you need to do is send us a little message.
 
-<Contact />

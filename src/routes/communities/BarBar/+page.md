@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 
@@ -51,5 +49,3 @@ Bar Bar Fetish Club, Patpong 2, Silom road, Bangkok, Thailand
 - YouTube: [@barbarfetishclubbangkok3273](https://www.youtube.com/channel/UC3w20TOUQvY9AghwwlteJuw)
 - Telephone: +66 2 632 7124
 - E-Mail: barbarfetishclub@gmail.com
-
-<Contact />

@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 	<title>Kinky Events in Bangkok</title>
@@ -33,4 +31,3 @@ See old entries here: [Old calendar entries](/event-calendar/history)
 
 To join you will just have to send us a message, and we will get back to you as soon as possible.
 
-<Contact />

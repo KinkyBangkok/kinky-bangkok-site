@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 
@@ -27,5 +25,3 @@ Will be open on Tuesday 31 January 2023
 - Facebook: [500cafebangkok](http://www.facebook.com/500cafebangkok)
 - Instagram: [500cafebangkok](http://www.instagram.com/500cafebangkok)
 - Phone: +66 948810500
-
-<Contact />

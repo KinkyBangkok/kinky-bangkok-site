@@ -1,5 +1,4 @@
 <script lang="ts">
-  import Contact from '$lib/Contact.svelte';
 	import Img from '@zerodevx/svelte-img';
 	import image from '$lib/assets/ropes.png?run';
 </script>
@@ -41,5 +40,3 @@ The entry is free. This event is community based and non-commercial.
 <Img src={image} alt="A woman in ropes" />
 
 Feel like joining a jam? Send us a message!
-
-<Contact />

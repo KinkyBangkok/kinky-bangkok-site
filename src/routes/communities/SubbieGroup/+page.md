@@ -1,5 +1,4 @@
 <script lang="ts">
-  import Contact from '$lib/Contact.svelte';
   import Img from '@zerodevx/svelte-img';
   import image from '$lib/assets/subbieMunch.jpg?run';
 </script>
@@ -43,6 +42,3 @@ The account is managed by @MyArms_BendBack with the support of the Bangkok submi
 
 - RopePodcast: [On Fetlife](https://fetlife.com/users/7370142)
 - RopePodcast IG: [@ropepodcast](https://www.instagram.com/ropepodcast/)
-
-
-<Contact />

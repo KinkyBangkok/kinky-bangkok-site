@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 
@@ -14,5 +12,3 @@
 ## Links
 
 - Twitter [@BangkokHanger](https://twitter.com/BangkokHanger)
-
-<Contact />

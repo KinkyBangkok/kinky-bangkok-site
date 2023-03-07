@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 	<title>Valentine Debauchery</title>
@@ -12,4 +10,3 @@
 
 # The Event is cancelled since the location cancelled us
 
-<Contact />

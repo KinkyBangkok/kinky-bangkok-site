@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 
@@ -21,5 +19,3 @@ BDSM Educator & Sexologist อีกหนึ่งช่องทางขอ�
 
 - Facebook [@ThailandBDSMV1](https://www.facebook.com/ThailandBDSMV1/)
 - Twitter [@thailandbdsm](https://twitter.com/thailandbdsm)
-
-<Contact />

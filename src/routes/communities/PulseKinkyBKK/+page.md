@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 
@@ -33,5 +31,3 @@ Have fun liberating your kinky self – and being part of the sex positive movem
 ## Links
 
 - Website: [https://pulse-clinic.com](https://pulse-clinic.com)
-
-<Contact />

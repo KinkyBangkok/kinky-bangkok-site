@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 
@@ -41,5 +39,3 @@ BDSM enthusiasts can also stock up for their playrooms with an array of equipmen
 - Line: [@thehiddencloset](https://lin.ee/oT8MEdF)
 - Instagram: [thehiddenclosetbkk](https://www.instagram.com/p/BMv0oVXgvoH)
 - Phone: +66 96 783 8366
-
-<Contact />

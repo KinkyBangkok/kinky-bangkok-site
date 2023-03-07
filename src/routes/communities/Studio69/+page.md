@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 
@@ -11,5 +9,3 @@
 # Studio69
 
 
-
-<Contact />

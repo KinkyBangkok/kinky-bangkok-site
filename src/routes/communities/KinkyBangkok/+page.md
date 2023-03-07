@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 
@@ -38,5 +36,3 @@ We are making access to the kink community easier. Just contact us via the conta
 - Line: [germanrobert](https://line.me/ti/p/bHPuHWvwdP)
 - Telegram: [KinkyBangkok](https://t.me/ErnstRobert)
 - Email: contactwebsite@kinkybangkok.com
-
-<Contact />

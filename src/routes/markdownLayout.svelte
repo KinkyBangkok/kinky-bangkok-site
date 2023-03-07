@@ -2,6 +2,8 @@
 	import { fly } from 'svelte/transition';
 	import Header from './Header.svelte';
 	import Navbar from './Navbar.svelte';
+	import Contact from '$lib/Contact.svelte';
+	export const prerender = true;
 </script>
 
 <div class="flex flex-col h-full py-10 sm:py-20">
@@ -17,9 +19,10 @@
 			out:fly={{ y: 50, duration: 200 }}
 		>
 			<slot />
+			<Contact />
 		</article>
 	</main>
 
-	<div class="flex-1" />
+	<div class="flex-1"></div>
 	<div class="text-center py-4 text-sm text-white">Kinky Bangkok - 2023</div>
 </div>

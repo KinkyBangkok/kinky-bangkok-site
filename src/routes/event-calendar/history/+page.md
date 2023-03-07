@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 	<title>Past Kinky Events in Bangkok</title>
@@ -20,4 +18,3 @@
 
 To get more information about future events feel free to reach out
 
-<Contact />

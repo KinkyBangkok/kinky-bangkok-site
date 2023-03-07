@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 
@@ -44,5 +42,3 @@ Fur/Furries - Puppies - Bizarre - Steampunk - Punk - Burlesque - Drag - Uniforms
 - FetLife Group: [https://fetlife.com/groups/249476](https://fetlife.com/groups/249476)
 - Tickets: [https://www.ticketmelon.com/thekinkempire](https://www.ticketmelon.com/thekinkempire)
 - Instagram: [starks_kink_one](https://www.instagram.com/starks_kink_one/)
-
-<Contact />

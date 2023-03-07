@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 
@@ -62,5 +60,3 @@ Having said that; getting vetted and accepted in one event doesn't make you a me
 - Line: Dim1980
 - SDC: DeviantThailand
 - Email: deviantthailand@gmail.com 
-
-<Contact />

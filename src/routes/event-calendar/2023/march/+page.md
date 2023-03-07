@@ -1,6 +1,4 @@
-<script lang="ts">
-  import Contact from '$lib/Contact.svelte';
-</script>
+
 
 <svelte:head>
 	<title>March 2023 Kinky Events in Bangkok</title>
@@ -31,4 +29,3 @@ It includes [Thailand Kink](/communities/ThailandKink) (TK), [Thailand Misfits](
 
 To join you will just have to send us a message, and we will get back to you as soon as possible.
 
-<Contact />
