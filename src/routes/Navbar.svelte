@@ -1,7 +1,11 @@
+<script lang="ts">
+	import { base } from '$app/paths';
+</script>
+
 <nav class="flex justify-center p-4">
 	<div class="flex flex-wrap justify-center text-center align-end gap-4">
-		<a href="/communities" class="navlink">community list</a>
-		<a href="/event-calendar" class="navlink">community events</a>
+		<a href="{base}/communities" class="navlink">community list</a>
+		<a href="{base}/event-calendar" class="navlink">community events</a>
 	</div>
 </nav>
 
