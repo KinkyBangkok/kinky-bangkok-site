@@ -19,6 +19,8 @@
   > Thailand Misfits is one of the biggest kink communities in Bangkok. They have their own secret hideout
 - [Thailand Ropey Peeps - RP](/communities/ThailandRopeyPeeps)
   > Thailand Ropey Peeps is the biggest english speaking bondage group in Bangkok. They are active on Line and FetLife
+- [Subbie Group](/communities/SubbieGroup)
+  > The Subbie Group is a small group in english group only for submissives
 - [Thailand BDSM: Let's Play and Learn](/communities/ThailandBDSM)
   > Thai language Facebook community about BDSM
 
